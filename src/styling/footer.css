@@ -1,0 +1,16 @@
+.footer{
+  display: flex;
+  margin-top: 1rem;
+  padding: 1rem;
+  /* background: linear-gradient(to right, #434343 0%, black 100%); */
+  background: rgb(34, 33, 33);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  justify-content: center;  
+}
+
+.footer > p {
+    color: white;
+    font-size: small;
+}
